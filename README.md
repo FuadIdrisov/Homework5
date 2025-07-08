@@ -2,21 +2,20 @@
 # Домашнее задание по обработке изображений и дообучению моделей
 
 ## 📁 Структура проекта
-
+```bash
 homework/
 ├── data/
-│ ├── train/
-│ └── test/
-├── result/
-├── task1_hw1_augmentations.py
-├── task2_compare_augmentations.py
+│   ├── train/         
+│   └── test/          
+├── result/            
+├── datasets.py        
+├── task1_basic_augmentations.py
+├── task2_custom_augmentations.py
 ├── task3_dataset_analysis.py
 ├── task4_augmentation_pipeline.py
-├── task5_experiment_resize.py
-├── task6_finetune_resnet.py
+├── task5_resize_experiment.py
+├── finetune_resnet.py
 ├── README.md
-
----
 
 ---
 
